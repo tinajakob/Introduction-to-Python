@@ -1,0 +1,174 @@
+country,code,fertility,gender_inequality,income_level,gni_per_capita,continent,_merge
+Aruba,ABW,1.854,,High income,26250.0,North America,both
+Afghanistan,AFG,4.976,0.667,Low income,600.0,Asia,both
+Angola,AGO,5.774,,Upper middle income,4520.0,Africa,both
+Albania,ALB,1.6769999999999998,0.26699999,Upper middle income,4390.0,Europe,both
+United Arab Emirates,ARE,1.541,0.23199999,High income,42860.0,Asia,both
+Argentina,ARG,2.301,0.36399999,High income,12570.0,South America,both
+Armenia,ARM,1.7380000000000002,0.29300001,Lower middle income,4010.0,Asia,both
+Antigua and Barbuda,ATG,2.003,,High income,12850.0,North America,both
+Australia,AUS,1.858,0.12,High income,60500.0,Oceania,both
+Austria,AUT,1.49,0.078000002,High income,47450.0,Europe,both
+Azerbaijan,AZE,2.113,0.32600001,Upper middle income,6570.0,Asia,both
+Burundi,BDI,5.697,0.47400001,Low income,260.0,Africa,both
+Belgium,BEL,1.744,0.07299999900000001,High income,45540.0,Europe,both
+Benin,BEN,5.047,0.61299998,Lower middle income,1180.0,Africa,both
+Burkina Faso,BFA,5.436,0.61500001,Low income,700.0,Africa,both
+Bangladesh,BGD,2.12,0.51999998,Lower middle income,1220.0,Asia,both
+Bulgaria,BGR,1.534,0.223,Upper middle income,7450.0,Europe,both
+Bahrain,BHR,2.056,0.233,High income,22580.0,Asia,both
+Bosnia and Herzegovina,BIH,1.296,0.15800001,Upper middle income,5210.0,Europe,both
+Belarus,BLR,1.693,0.14399999,Upper middle income,6710.0,Europe,both
+Belize,BLZ,2.439,0.375,Upper middle income,4400.0,North America,both
+Bolivia,BOL,2.886,0.44600001,Lower middle income,2960.0,South America,both
+Brazil,BRA,1.7530000000000001,0.414,Upper middle income,10190.0,South America,both
+Barbados,BRB,1.614,0.29100001,High income,15740.0,North America,both
+Brunei Darussalam,BRN,1.9469999999999998,,High income,38850.0,Asia,both
+Bhutan,BTN,2.037,0.47700000000000004,Lower middle income,2520.0,Asia,both
+Botswana,BWA,2.968,0.435,Upper middle income,6840.0,Africa,both
+Central African Republic,CAF,4.941,0.65600002,Low income,400.0,Africa,both
+Canada,CAN,1.564,0.09799999699999999,High income,47570.0,North America,both
+Switzerland,CHE,1.5330000000000001,0.039999999,High income,85670.0,Europe,both
+Chile,CHL,1.75,0.322,High income,14130.0,South America,both
+China,CHN,1.665,0.16399999999999998,Upper middle income,7940.0,Asia,both
+Cote d'Ivoire,CIV,4.813,0.67199999,Lower middle income,1660.0,Africa,both
+Cameroon,CMR,4.777,0.56800002,Lower middle income,1440.0,Africa,both
+Colombia,COL,1.8630000000000002,0.39300001,Upper middle income,7330.0,South America,both
+Comoros,COM,4.419,,Lower middle income,1380.0,Africa,both
+Cabo Verde,CPV,2.385,,Lower middle income,3210.0,Africa,both
+Costa Rica,CRI,1.806,0.308,Upper middle income,10400.0,North America,both
+Cuba,CUB,1.6740000000000002,0.30399999,Upper middle income,7230.0,North America,both
+Curacao,CUW,1.9380000000000002,,High income,19620.0,North America,both
+Cyprus,CYP,1.354,0.11599999999999999,High income,25960.0,Europe,both
+Czech Republic,CZE,1.5619999999999998,,High income,18370.0,Europe,both
+Germany,DEU,1.5090000000000001,0.066,High income,45810.0,Europe,both
+Djibouti,DJI,2.912,,Lower middle income,2730.0,Africa,both
+Denmark,DNK,1.7369999999999999,0.041000001,High income,60510.0,Europe,both
+Dominican Republic,DOM,2.405,0.47,Upper middle income,6580.0,North America,both
+Algeria,DZA,3.043,0.42899999,Upper middle income,4850.0,Africa,both
+Ecuador,ECU,2.499,0.391,Upper middle income,5970.0,South America,both
+Spain,ESP,1.314,0.081,High income,28430.0,Europe,both
+Estonia,EST,1.581,0.131,High income,18680.0,Europe,both
+Ethiopia,ETH,4.565,0.49900001,Low income,600.0,Africa,both
+Finland,FIN,1.653,0.056000002,High income,47150.0,Europe,both
+Fiji,FJI,2.8,0.35800001,Upper middle income,5100.0,Oceania,both
+France,FRA,1.9169999999999998,0.102,High income,41100.0,Europe,both
+Gabon,GAB,4.064,0.542,Upper middle income,7970.0,Africa,both
+United Kingdom,GBR,1.8090000000000002,0.131,High income,44350.0,Europe,both
+Georgia,GEO,2.05,0.361,Upper middle income,4410.0,Asia,both
+Ghana,GHA,4.041,0.54699999,Lower middle income,1940.0,Africa,both
+Guinea,GIN,4.933,,Low income,760.0,Africa,both
+Guinea-Bissau,GNB,4.708,,Low income,640.0,Africa,both
+Equatorial Guinea,GNQ,4.774,,Upper middle income,10850.0,Africa,both
+Greece,GRC,1.321,0.11900000000000001,High income,20140.0,Europe,both
+Grenada,GRD,2.126,,Upper middle income,7780.0,North America,both
+Guatemala,GTM,3.029,0.49399999,Lower middle income,3700.0,North America,both
+Guyana,GUY,2.5340000000000003,0.50800002,Upper middle income,5470.0,South America,both
+Honduras,HND,2.5810000000000004,0.461,Lower middle income,2060.0,North America,both
+Croatia,HRV,1.4680000000000002,0.141,High income,12970.0,Europe,both
+Haiti,HTI,3.0980000000000003,0.59299999,Lower middle income,1390.0,North America,both
+Hungary,HUN,1.4080000000000001,0.252,High income,13250.0,Europe,both
+Indonesia,IDN,2.3890000000000002,0.46700001,Lower middle income,3430.0,Asia,both
+India,IND,2.295,0.52999997,Lower middle income,1600.0,Asia,both
+Ireland,IRL,1.905,0.127,High income,50350.0,Europe,both
+Iraq,IRQ,3.972,0.52499998,Upper middle income,5930.0,Asia,both
+Iceland,ISL,1.87,0.050999999000000004,High income,50160.0,Europe,both
+Israel,ISR,3.0610000000000004,0.10300000000000001,High income,36070.0,Asia,both
+Italy,ITA,1.3769999999999998,0.08500000099999999,High income,32980.0,Europe,both
+Jamaica,JAM,2.026,0.42199999,Upper middle income,4700.0,North America,both
+Jordan,JOR,3.071,0.47799999,Lower middle income,3950.0,Asia,both
+Japan,JPN,1.395,0.11599999999999999,High income,38840.0,Asia,both
+Kazakhstan,KAZ,2.741,0.20200001,Upper middle income,11380.0,Asia,both
+Kenya,KEN,3.765,0.565,Lower middle income,1290.0,Africa,both
+Kyrgyz Republic,KGZ,3.202,,Lower middle income,1180.0,Asia,both
+Cambodia,KHM,2.593,0.479,Lower middle income,1060.0,Asia,both
+Kiribati,KIR,3.6919999999999997,,Lower middle income,3470.0,Oceania,both
+Kuwait,KWT,2.083,0.33500001,High income,41820.0,Asia,both
+Lao PDR,LAO,2.7960000000000003,,Lower middle income,1970.0,Asia,both
+Lebanon,LBN,2.103,0.38100001,Upper middle income,7280.0,Asia,both
+Liberia,LBR,4.54,0.64899999,Low income,630.0,Africa,both
+Libya,LBY,2.356,0.16699999999999998,Upper middle income,5690.0,Africa,both
+St. Lucia,LCA,1.473,,Upper middle income,8730.0,North America,both
+Sri Lanka,LKA,2.213,0.38600001,Lower middle income,3760.0,Asia,both
+Lesotho,LSO,3.218,0.54900002,Lower middle income,1340.0,Africa,both
+Lithuania,LTU,1.643,0.121,High income,15190.0,Europe,both
+Luxembourg,LUX,1.495,0.075000003,High income,72470.0,Europe,both
+Latvia,LVA,1.6059999999999999,0.191,High income,15100.0,Europe,both
+Morocco,MAR,2.524,0.49399999,Lower middle income,3020.0,Africa,both
+Moldova,MDA,1.261,0.23199999,Lower middle income,3300.0,Europe,both
+Madagascar,MDG,4.2410000000000005,,Low income,490.0,Africa,both
+Maldives,MDV,1.9909999999999999,0.31200001,Upper middle income,7650.0,Asia,both
+Mexico,MEX,2.215,0.345,Upper middle income,10160.0,North America,both
+North Macedonia,MKD,1.507,0.16,Upper middle income,5110.0,Europe,both
+Mali,MLI,6.145,0.68900001,Low income,800.0,Africa,both
+Malta,MLT,1.4180000000000001,0.21699999,High income,25230.0,Europe,both
+Myanmar,MMR,2.198,0.37400001,Lower middle income,1260.0,Asia,both
+Montenegro,MNE,1.723,0.156,Upper middle income,7250.0,Europe,both
+Mongolia,MNG,2.918,0.278,Lower middle income,3820.0,Asia,both
+Mozambique,MOZ,5.062,0.574,Low income,640.0,Africa,both
+Mauritania,MRT,4.738,0.62699997,Lower middle income,1640.0,Africa,both
+Mauritius,MUS,1.4240000000000002,0.38,Upper middle income,10700.0,Africa,both
+Malawi,MWI,4.527,0.61400002,Low income,350.0,Africa,both
+Malaysia,MYS,2.056,0.29100001,Upper middle income,10680.0,Asia,both
+Namibia,NAM,3.54,0.47400001,Upper middle income,5290.0,Africa,both
+Niger,NER,7.169,0.69499999,Low income,560.0,Africa,both
+Nigeria,NGA,5.5920000000000005,,Lower middle income,2820.0,Africa,both
+Nicaragua,NIC,2.48,0.46200001,Lower middle income,1890.0,North America,both
+Netherlands,NLD,1.693,0.044000000000000004,High income,49810.0,Europe,both
+Norway,NOR,1.7409999999999999,0.052999999000000006,High income,93110.0,Europe,both
+Nepal,NPL,2.0980000000000003,0.49700001,Low income,780.0,Asia,both
+New Zealand,NZL,1.965,0.15800001,High income,40640.0,Oceania,both
+Oman,OMN,2.9389999999999996,0.28099999,High income,17450.0,Asia,both
+Pakistan,PAK,3.66,0.546,Lower middle income,1260.0,Asia,both
+Panama,PAN,2.54,0.45699999,Upper middle income,12200.0,North America,both
+Peru,PER,2.323,0.38499999,Upper middle income,6340.0,South America,both
+Philippines,PHL,2.805,0.43599999,Lower middle income,3380.0,Asia,both
+Papua New Guinea,PNG,3.707,0.59500003,Lower middle income,2860.0,Oceania,both
+Poland,POL,1.371,0.13699999,High income,13310.0,Europe,both
+Puerto Rico,PRI,1.347,,High income,19420.0,North America,both
+Portugal,PRT,1.274,0.09099999800000001,High income,20440.0,Europe,both
+Paraguay,PRY,2.508,0.46399999,Upper middle income,5620.0,South America,both
+West Bank and Gaza,PSE,3.955,,Lower middle income,3670.0,Asia,both
+Qatar,QAT,1.929,0.542,High income,73440.0,Asia,both
+Romania,ROU,1.564,0.33899999,Upper middle income,9600.0,Europe,both
+Russian Federation,RUS,1.777,,Upper middle income,11780.0,Europe,both
+Rwanda,RWA,4.157,0.38299999,Low income,750.0,Africa,both
+Saudi Arabia,SAU,2.5069999999999997,0.257,High income,23710.0,Asia,both
+Sudan,SDN,4.593999999999999,0.57499999,Lower middle income,1690.0,Africa,both
+Senegal,SEN,4.841,0.52100003,Lower middle income,1320.0,Africa,both
+Singapore,SGP,1.216,0.068000004,High income,53160.0,Asia,both
+Solomon Islands,SLB,4.459,,Lower middle income,2130.0,Oceania,both
+Sierra Leone,SLE,4.561,0.64999998,Low income,550.0,Africa,both
+El Salvador,SLV,2.101,0.384,Lower middle income,3440.0,North America,both
+Serbia,SRB,1.455,0.185,Upper middle income,5960.0,Europe,both
+South Sudan,SSD,4.937,,Lower middle income,1090.0,Africa,both
+Sao Tome and Principe,STP,4.477,0.52399999,Lower middle income,1650.0,Africa,both
+Suriname,SUR,2.494,0.44800001,Upper middle income,8690.0,South America,both
+Slovak Republic,SVK,1.442,,High income,17670.0,Europe,both
+Slovenia,SVN,1.5959999999999999,0.052999999000000006,High income,22250.0,Europe,both
+Sweden,SWE,1.8780000000000001,0.048,High income,58420.0,Europe,both
+Eswatini,SWZ,3.065,0.56599998,Lower middle income,3800.0,Africa,both
+Seychelles,SYC,2.435,,High income,14020.0,Africa,both
+Chad,TCD,6.0489999999999995,0.69499999,Low income,880.0,Africa,both
+Togo,TGO,4.516,0.55599999,Low income,640.0,Africa,both
+Thailand,THA,1.538,0.366,Upper middle income,5710.0,Asia,both
+Tajikistan,TJK,3.623,0.322,Lower middle income,1250.0,Asia,both
+Turkmenistan,TKM,2.93,,Upper middle income,7030.0,Asia,both
+Timor-Leste,TLS,4.218999999999999,,Lower middle income,2200.0,Asia,both
+Tonga,TON,3.678,0.65899998,Upper middle income,4440.0,Oceania,both
+Trinidad and Tobago,TTO,1.767,0.324,High income,18980.0,North America,both
+Tunisia,TUN,2.251,0.289,Lower middle income,3960.0,Africa,both
+Turkey,TUR,2.101,0.32800001,Upper middle income,12030.0,Asia,both
+Tanzania,TZA,5.079,0.54400003,Low income,980.0,Africa,both
+Uganda,UGA,5.394,0.52200001,Low income,830.0,Africa,both
+Ukraine,UKR,1.475,0.28400001,Lower middle income,2700.0,Europe,both
+Uruguay,URY,1.9969999999999999,0.28400001,High income,15640.0,South America,both
+United States,USA,1.8119999999999998,0.20299999,High income,56750.0,North America,both
+Uzbekistan,UZB,2.435,0.287,Lower middle income,2600.0,Asia,both
+St. Vincent and the Grenadines,VCT,1.953,,Upper middle income,6560.0,North America,both
+Vietnam,VNM,2.0140000000000002,0.33700001,Lower middle income,1970.0,Asia,both
+Vanuatu,VUT,3.898,,Lower middle income,2910.0,Oceania,both
+Samoa,WSM,4.029,0.43900001,Lower middle income,3960.0,Oceania,both
+South Africa,ZAF,2.484,0.39399999,Upper middle income,6050.0,Africa,both
+Zambia,ZMB,4.918,0.52600002,Lower middle income,1580.0,Africa,both
+Zimbabwe,ZWE,3.8960000000000004,0.54000002,Lower middle income,1280.0,Africa,both
