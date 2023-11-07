@@ -21,7 +21,7 @@ This is a complete Python course based on interactive [Jupyter notebooks](https:
   - String methods and regular expressions
   - Text analysis
 
-Each lecture consists of a tutorial and an exercise. Please [contact me]((https://www.martinajakob.net) for solutions. 
+Each lecture consists of a tutorial and an exercise. Please [contact me](https://www.martinajakob.net) for solutions. 
 
 
 ## Setup
