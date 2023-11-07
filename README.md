@@ -21,11 +21,11 @@ This is a complete Python course based on interactive [Jupyter notebooks](https:
   - String methods and regular expressions
   - Text analysis
 
-Each lecture consists of a tutorial and an exercise. Please [contact me] (www.martinajakob.net) for solutions. 
+Each lecture consists of a tutorial and an exercise. Please [contact me](www.martinajakob.net) for solutions. 
 
 
 ## Setup
-If you add this folder to Google Drive, you can run everything with Google Colab, and you won't even need to install Python on your computer. More details are provided in the PDF "Setup-of-programming-environment.pdf" provided above.
+If you add this folder to Google Drive, you can run everything with Google Colab, and you won't even need to install Python on your computer. For more details, see the file ["Setup-of-programming-environment.pdf"](https://github.com/tinajakob/Introduction-to-Python/blob/main/Setup-of-programming-environment.pdf) provided above.
 
 
 ## Acknowledgements
