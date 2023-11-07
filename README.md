@@ -1,7 +1,7 @@
-# Welcome to this introductory Python course!
+# Welcome to this introductory Python course for data scientists!
 
 ## Content
-This is a complete Python course based on interactive Jupyter notebooks. It covers the following topics:
+This is a complete Python course based on interactive [Jupyter notebooks](https://jupyter.org/). It is suitable for self-study or teaching and covers the following topics:
 
 * **Part 1: Introduction to the Python syntax** (3 lectures)
   - Basics and object types
@@ -14,12 +14,14 @@ This is a complete Python course based on interactive Jupyter notebooks. It cove
   - OLS regression, plotting with *matplotlib*
   - Advanced plotting (e.g., maps with *geopandas*)
 * **Part 3: Web scraping** (3 lectures)
-  - Basics of HTML, scraping static websites with *requests* and *BeautifulSoup*
-  - Scraping dynamic websites with *selenium*
+  - Basics of HTML, scraping static web pages with *requests* and *BeautifulSoup*
+  - Scraping dynamic web pages with *selenium*
   - Working with APIs and JSON
 * **Part 4: Working with text** (2 lectures)
   - String methods and regular expressions
   - Text analysis
+
+Each lecture consists of a tutorial and an exercise. Please [contact me] (www.martinajakob.net) for solutions. 
 
 
 ## Setup
@@ -27,7 +29,11 @@ If you add this folder to Google Drive, you can run everything with Google Colab
 
 
 ## Acknowledgements
-I am grateful to Ben Jann, Sebastian Heinrich, Rudolf Farys, and Nadja Vögtle for their helpful additions, comments and corrections. The first 3 lectures of this course are inspired by 
+I am grateful to [Ben Jann](https://github.com/benjann), Sebastian Heinrich, Rudolf Farys, and Nadja Vögtle for their helpful additions, comments, and corrections. The first 3 lectures of this course are inspired by 
 ["A Whirlwind Tour of Python" ](https://www.markdownguide.org/basic-syntax/).
+
+
+## License
+All materials are distributed under the [MIT License](https://opensource.org/license/mit/). 
 
 

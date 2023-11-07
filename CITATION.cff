@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use these materials, please cite it as below."
+authors:
+  - family-names: Jakob
+    given-names: Martina
+    orcid: 0000-0002-1052-804X
+  - family-names: Jann
+    given-names: Ben
+    orcid: 0000-0001-9855-1967
+title: "Introduction to Python for Data Scientists"
+version: 1.0.0
+date-released: 2023-11-07
